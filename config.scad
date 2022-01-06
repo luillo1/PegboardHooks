@@ -1,0 +1,1 @@
+hookWidth = 4.5;
